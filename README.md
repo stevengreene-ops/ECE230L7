@@ -32,3 +32,5 @@ combinatorial loop, which can cause the circuit to oscillate or crash during sim
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
 
+We cannot invert the numbers like we can in one's complement because 0000 (0) ⇒ 1111 (-1). For that reason, we can start with a Ones’ Compliment intermediary and add one to it to convert to two's complement number representation. 
+

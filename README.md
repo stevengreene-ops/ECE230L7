@@ -16,7 +16,7 @@ Diego
 Steven
 
 ## Summary
-WE explored the fundamental logic of binary subtraction and signed number representation. 
+We learned the fundamental logic of binary subtraction and signed number representation. 
 By implementing a Half Subtractor, we identified how the Borrow bit differentiates subtraction from addition.
 
 ## Lab Questions

@@ -18,6 +18,7 @@ In this lab you've learned the basics of number theory as it relates to subtract
 ## Lab Questions
 
 ### 1 - Explain the differences between our Half Adder from last lab and the Half Subtractor from this lab.
+The Half Adder from the last lab included both A&B to add, whereas this lab, we wanted A' & B. 
 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
 
